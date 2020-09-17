@@ -165,8 +165,9 @@ ___
 
 - **본 데이터셋은 과학기술정보통신부의 인공지능산업원천기술개발 사업(과제번호: 2019-0-01763)의 일환으로 구축되었으며, 공개 S/W로 제공됨.**
 - **데이터셋의 경우 대용량 다운로드를 고려하여 저장소를 2개로 분리하였으며, 각 저장소당 105개 씩 총 210개의 비디오 클립이 있음.** 
-- **저장소 1 링크:  https://github.com/MTCom-AI/drone-vis-recog-datasets-1** 
-- **저장소 2 링크:  https://github.com/MTCom-AI/drone-vis-recog-datasets-2**
+- **저장소 1 링크: 
+- **저장소 2 링크: 
+- **저장소 3 링크: https://github.com/MTCom-AI/drone-vis-recog-datasets-3
 
 ___
 
