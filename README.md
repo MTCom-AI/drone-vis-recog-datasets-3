@@ -84,15 +84,15 @@ ___
 
 - **촬영조건 통계**
     
-    <table style="text-align:center;">
-       <thead>
+    <table>
+       <thead align="center">
            <tr>               
                <th colspan=2><b>      촬영 조건      </b></th>
                <th colspan=1><b>비디오 클립 개수</b></th>
            </tr>
        </thead>
-       <tbody>
-           <tr>               
+       <tbody align="center">
+           <tr>
                <td>일출</td>
                <td>맑음</td>
                <td><b>0</b></td>
