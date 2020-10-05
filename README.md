@@ -83,7 +83,8 @@ ___
  
 
 - **촬영조건 통계**
-    <table>
+    
+    <table style="text-align:center;">
        <thead>
            <tr>               
                <th colspan=2><b>      촬영 조건      </b></th>
@@ -140,9 +141,8 @@ ___
                 <td colspan=2><b>합계</b></td>
                 <td><b>70</b></td>
            </tr>
-       </tbody>
+	   </tbody>
 	  </table>
-
 
 ___
 
@@ -164,7 +164,7 @@ ___
     - 이미지 파일 예시
 
       ![0615_V0049_248_ex](./0615_V0049_248_ex.png)
-      
+    
   - **json 파일**
 
     - 해당 비디오 클립에 대한 **Ground Truth** 파일 
