@@ -70,15 +70,15 @@ ___
 
 - **객체 통계**
 
-  | **객체**                      | <center>클래스 아이디</center> | <center>**객체 수**</center> |
+  | **객체**                      | **클래스 아이디** | **객체 수** |
   | ----------------------------- | :-------------: | :-----------: |
-  | **Person(사람)**              | <center>c_1</center>| <center>594</center>|
-  | **Fire Extinguisher(소화기)** | <center>c_2</center>| <center>39</center>|
-  | **Fire Hydrant(소화전)**      | <center>c_3</center>| <center>10</center>|
-  | **Car(차량)**                 | <center>c_4</center>| <center>144</center>|
-  | **Bicycle(자전거)**           | <center>c_5</center>| <center>57</center>|
-  | **Motorcycle(오토바이)**      | <center>c_6</center>| <center>33</center>|
-  | **합계**                      |               | <center>**877**</center>|
+  | **Person(사람)**              | c_1 | 594 | 
+  | **Fire Extinguisher(소화기)** | c_2 | 39 |
+  | **Fire Hydrant(소화전)**      | c_3 | 10 |
+  | **Car(차량)**                 | c_4 | 144 |
+  | **Bicycle(자전거)**           | c_5 | 57 |
+  | **Motorcycle(오토바이)**      | c_6 | 33 |
+  | **합계**                      |      | **877** |
 
  
 
