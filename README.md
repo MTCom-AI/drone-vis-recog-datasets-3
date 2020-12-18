@@ -287,7 +287,7 @@ ___
 
 - **본 저장소에는 141번째부터 210번째까지의 70개 비디오 클립**에 대한 데이터셋이 저장되어 있음.
 
-- **저장소 1 링크**:
+- **저장소 1 링크**: https://github.com/laonbud-grandsys/drone-vis-recog-datasets-1
 
-- **저장소 2 링크**:
+- **저장소 2 링크**: https://github.com/zum-lab/drone-vis-recog-datasets-2
 
