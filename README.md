@@ -291,4 +291,4 @@ ___
 
 - **저장소 2 링크**: https://github.com/zum-lab/drone-vis-recog-datasets-2
 
-- ** ...
+- **본 저장소의 직접 다운로드 링크**: 
